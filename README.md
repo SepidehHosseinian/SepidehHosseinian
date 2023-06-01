@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an ML practitioner with experience in natural language processing and data science.
+I'm an ML practitioner with experience in natural language processing and MlOps.
 
 - 🔭 I’m currently working on LLM|MLOps.
 - 🌱 I’m currently learning Rust.
