@@ -8,7 +8,7 @@
   <img src="https://img.icons8.com/fluent/60/000000/twitter.png" />
  </a>
  <a href="https://kaggle.com/sepidehhosseinian" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/kaggle.png" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" />
  </a>
   <a href="https://leetcode.com/sepidehhosseinian" target="_blank">
   <img src="https://img.icons8.com/fluent/60/000000/leetcode.png" />
