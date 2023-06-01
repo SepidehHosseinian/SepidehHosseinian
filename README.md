@@ -35,7 +35,7 @@ I'm an ML practitioner with experience in natural language processing and MlOps.
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on **MLOps and NLP projects**.
 - 💬 Ask me about: NLP, MLOps, DevOps, Architecture, Microservices, Performance, DDD, TDD
-- 📃 My AI|MlOps channel on Telegram: [@letsSpeakAI](https://t.me/letsSpeakAI)
+- 📃 My AI|MlOps channel on Telegram: [@LetsSpeakAI](https://t.me/LetsSpeakAI)
 - 📫 How to reach me: s.sepideh.hoseiniane@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My love for learning changed my life!
