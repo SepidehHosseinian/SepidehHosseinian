@@ -40,5 +40,9 @@ I'm an ML practitioner with experience in natural language processing and MlOps.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My love for learning changed my life!
 
-
+<p align="left">
+ <a href="#" alt="Sepideh Hosseinian's github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SepidehHosseinian&theme=tokyonight&show_icons=true" />
+ </a>
+</p>
 
