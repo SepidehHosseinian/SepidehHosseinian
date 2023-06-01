@@ -1,17 +1,17 @@
 ### Hi there 👋 I'm Sepideh.
 <p align="left">
  <a href="https://linkedin.com/in/sepideh-hosseinian" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" />
+  <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" width="60" height="60" />
  </a>
   
  <a href="https://twitter.com/sepidpy" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/twitter.png" />
+  <img src="https://img.icons8.com/fluent/60/000000/twitter.png" width="60" height="60" />
  </a>
  <a href="https://kaggle.com/sepidehhosseinian" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="60" height="60" />
  </a>
   <a href="https://leetcode.com/sepidehhosseinian" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/leetcode.png"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" width="60" height="60"/>
  </a>
 </p>
 <p align="left"> 
