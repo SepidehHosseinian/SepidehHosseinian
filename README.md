@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sepideh.
 <p align="left">
- <a href="https://linkedin.com/in/sepideh-hosseinian" target="_blank">
+ <a href="https://www.linkedin.com/in/sepideh-hosseinian" target="_blank">
   <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" width="60" height="60" />
  </a>
   
