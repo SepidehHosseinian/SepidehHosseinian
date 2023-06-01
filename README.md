@@ -22,4 +22,4 @@ I'm an ML practitioner with experience in natural language processing and MlOps.
 - 👯 I’m looking to collaborate on **MLOps and NLP projects**.
 - 📫 How to reach me: s.sepideh.hoseiniane@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My love for reading changed my life!
+- ⚡ Fun fact: My love for learning changed my life!
