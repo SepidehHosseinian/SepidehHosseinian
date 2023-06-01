@@ -28,7 +28,7 @@ I'm an ML practitioner with experience in natural language processing and MlOps.
 - 🔭 I’m currently working on LLM|MLOps.
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on **MLOps and NLP projects**.
-- 💬 Ask me about: NLP, MlOps, DevOps, Architecture, Microservices, Performance, DDD
+- 💬 Ask me about: NLP, MlOps, DevOps, Architecture, Microservices, Performance, DDD, TDD
 - 📫 How to reach me: s.sepideh.hoseiniane@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My love for learning changed my life!
