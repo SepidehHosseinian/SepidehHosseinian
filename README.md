@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" />
  </a>
   <a href="https://leetcode.com/sepidehhosseinian" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/leetcode.png" />
+  <img src="https://img.icons8.com/fluent/60/000000/leetcode.png" height="40em"/>
  </a>
 </p>
 <p align="left"> 
