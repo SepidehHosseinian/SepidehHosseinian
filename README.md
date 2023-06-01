@@ -8,10 +8,10 @@
   <img src="https://img.icons8.com/fluent/60/000000/twitter.png" />
  </a>
  <a href="https://kaggle.com/sepidehhosseinian" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="60" height="60" />
  </a>
   <a href="https://leetcode.com/sepidehhosseinian" target="_blank">
-  <img src="https://img.icons8.com/fluent/60/000000/leetcode.png" height="40em"/>
+  <img src="https://img.icons8.com/fluent/60/000000/leetcode.png"/>
  </a>
 </p>
 <p align="left"> 
