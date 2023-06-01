@@ -7,6 +7,12 @@
  <a href="https://twitter.com/sepidpy" target="_blank">
   <img src="https://img.icons8.com/fluent/60/000000/twitter.png" />
  </a>
+ <a href="https://kaggle.com/sepidehhosseinian" target="_blank">
+  <img src="https://img.icons8.com/fluent/60/000000/kaggle.png" />
+ </a>
+  <a href="https://leetcode.com/sepidehhosseinian" target="_blank">
+  <img src="https://img.icons8.com/fluent/60/000000/leetcode.png" />
+ </a>
 </p>
 <p align="left"> 
  <strong>
