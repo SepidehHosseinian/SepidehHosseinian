@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Sepideh.
-<p align="left">
+<p align="center">
  <a href="https://www.linkedin.com/in/sepideh-hosseinian" target="_blank">
   <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" width="60" height="60" />
  </a>
@@ -14,13 +14,13 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60" height="60"/>
  </a>
 </p>
-<p align="left"> 
+<p align="center"> 
  <strong>
   Professional skills
   </strong>
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" />
@@ -40,7 +40,7 @@ I'm an ML practitioner with experience in natural language processing and MlOps.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My love for learning changed my life!
 
-<p align="left">
+<p align="center">
  <a href="#" alt="Sepideh Hosseinian's github stats">
   <img height="220"src="https://github-readme-stats.vercel.app/api?username=sepidehhosseinian&show_icons=true&theme=tokyonight&card_width=60%"/>
  </a>
