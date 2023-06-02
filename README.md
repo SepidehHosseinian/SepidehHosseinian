@@ -1,4 +1,4 @@
-<h1 align="center>"Hi there 👋 I'm Sepideh.</h1>
+<h1 align="center">Hi there 👋 I'm Sepideh.</h1>
 <p align="center">
  <a href="https://www.linkedin.com/in/sepideh-hosseinian" target="_blank">
   <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" width="60" height="60" />
