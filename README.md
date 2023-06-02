@@ -34,7 +34,7 @@ I'm an ML practitioner with experience in natural language processing and MlOps.
 - 🔭 I’m currently working on LLM|MLOps.
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on **MLOps and NLP projects**.
-- 💬 Ask me about: NLP, MLOps, DevOps, Architecture, Microservices, Performance, DDD, TDD
+- 💬 Ask me about: NLP, Transformers, MLOps, Architecture, Microservices, DDD, TDD
 - 📃 My AI|MlOps channel on Telegram: [@LetsSpeakAI](https://t.me/LetsSpeakAI)
 - 📫 How to reach me: s.sepideh.hoseiniane@gmail.com
 - 😄 Pronouns: She/Her
@@ -42,6 +42,12 @@ I'm an ML practitioner with experience in natural language processing and MlOps.
 
 <p align="left">
  <a href="#" alt="Sepideh Hosseinian's github stats">
-  <img width="75%"src="https://github-readme-stats.vercel.app/api?username=sepidehhosseinian&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sepidehhosseinian&show_icons=true&theme=tokyonight"/>
+ </a>
+  <a href="#" alt="Sepideh Hosseinian's three lang">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepidehhosseinian&langs_count=3&layout=pie&hide_progress=true&theme=tokyonight"/>
+ </a>
+ <a href="#" alt="Sepideh Hosseinian's waketime">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sepidehhosseinian&theme=tokyonight"/>
  </a>
 </p>
