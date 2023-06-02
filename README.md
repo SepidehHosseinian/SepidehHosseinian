@@ -42,7 +42,7 @@ I'm an ML practitioner with experience in natural language processing and MlOps.
 
 <p align="left">
  <a href="#" alt="Sepideh Hosseinian's github stats">
-  <img  width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=sepidehhosseinian&show_icons=true&theme=tokyonight"/>
+  <img  width="50%" height="200" src="https://github-readme-stats.vercel.app/api?username=sepidehhosseinian&show_icons=true&theme=tokyonight&card_height=200"/>
  </a>
   <a href="#" alt="Sepideh Hosseinian's three lang">
   <img width="35%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepidehhosseinian&langs_count=8&layout=donut&hide_progress=true&theme=tokyonight&card_height=200"/>
