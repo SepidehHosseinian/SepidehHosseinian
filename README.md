@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Sepideh.</h1>
-<p align="center">
+<p >
  <a href="https://www.linkedin.com/in/sepideh-hosseinian" target="_blank">
   <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" width="60" height="60" />
  </a>
@@ -14,13 +14,13 @@
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="60" height="60"/>
  </a>
 </p>
-<p align="center"> 
+<p > 
  <strong>
   Professional skills
   </strong>
 </p>
 
-<p align="center"> 
+<p > 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60" />
