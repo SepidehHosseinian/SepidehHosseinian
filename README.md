@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="60" height="60" />
 </p>
 <p> 
-I'm an ML practitioner with experience in natural language processing and MlOps.
+I'm an ML practitioner with experience in natural language processing and MLOps.
 
 - 🔭 I’m currently working on LLM|MLOps.
 
