@@ -45,6 +45,6 @@ I'm an ML practitioner with experience in natural language processing and MlOps.
   <img src="https://github-readme-stats.vercel.app/api?username=sepidehhosseinian&show_icons=true&theme=tokyonight&card_width=50%"/>
  </a>
   <a href="#" alt="Sepideh Hosseinian's three lang">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepidehhosseinian&langs_count=3&&theme=tokyonight&card_width=35%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepidehhosseinian&langs_count=2&&theme=tokyonight&card_width=35%"/>
  </a>
 </p>
