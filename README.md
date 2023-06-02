@@ -28,9 +28,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="60" height="60" />
 </p>
-
+<p align="center"> 
 I'm an ML practitioner with experience in natural language processing and MlOps.
-
+</br>
 - 🔭 I’m currently working on LLM|MLOps.
 - 🌱 I’m currently learning Rust.
 - 👯 I’m looking to collaborate on **MLOps and NLP projects**.
@@ -39,7 +39,7 @@ I'm an ML practitioner with experience in natural language processing and MlOps.
 - 📫 How to reach me: s.sepideh.hoseiniane@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: My love for learning changed my life!
-
+</p>
 <p align="center">
  <a href="#" alt="Sepideh Hosseinian's github stats">
   <img height="220"src="https://github-readme-stats.vercel.app/api?username=sepidehhosseinian&show_icons=true&theme=tokyonight&card_width=60%"/>
