@@ -28,25 +28,25 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="60" height="60" />
 </p>
-<p align="center"> 
+<p> 
 I'm an ML practitioner with experience in natural language processing and MlOps.
-</br>
+
 - 🔭 I’m currently working on LLM|MLOps.
-</br>
+
 - 🌱 I’m currently learning Rust.
-</br>
+
 - 👯 I’m looking to collaborate on **MLOps and NLP projects**.
-</br>
+
 - 💬 Ask me about: NLP, Transformers, MLOps, Architecture, Microservices, DDD, TDD
-</br>
+
 - 📃 My AI|MlOps channel on Telegram: [@LetsSpeakAI](https://t.me/LetsSpeakAI)
-</br>
+
 - 📫 How to reach me: s.sepideh.hoseiniane@gmail.com
-</br>
+
 - 😄 Pronouns: She/Her
-</br>
+
 - ⚡ Fun fact: My love for learning changed my life!
-</br>
+
 </p>
 <p align="center">
  <a href="#" alt="Sepideh Hosseinian's github stats">
