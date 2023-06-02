@@ -39,7 +39,7 @@ I'm an ML practitioner with experience in natural language processing and MLOps.
 
 - 💬 Ask me about: NLP, Transformers, MLOps, Architecture, Microservices, DDD, TDD
 
-- 📃 My AI|MlOps channel on Telegram: [@LetsSpeakAI](https://t.me/LetsSpeakAI)
+- 📃 My AI|MLOps channel on Telegram: [@LetsSpeakAI](https://t.me/LetsSpeakAI)
 
 - 📫 How to reach me: s.sepideh.hoseiniane@gmail.com
 
