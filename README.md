@@ -10,7 +10,7 @@
  <a href="https://kaggle.com/sepidehhosseinian" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="60" height="60" />
  </a>
-  <a href="https://https://medium.com/@sepideh.hosseinian" target="_blank">
+  <a href="https://medium.com/@sepideh.hosseinian" target="_blank">
   <img src="https://github.com/Yelp/mrjob/raw/master/docs/logos/logo_medium.png" width="60" height="60"/>
  </a>
 <!-- 
