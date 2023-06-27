@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="60" height="60" />
  </a>
   <a href="https://medium.com/@sepideh.hosseinian" target="_blank">
-  <img src="https://github.com/Yelp/mrjob/raw/master/docs/logos/logo_medium.png" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/medium/medium.png" width="60" height="60"/>
  </a>
 <!-- 
   <a href="https://leetcode.com/sepidehhosseinian" target="_blank">
