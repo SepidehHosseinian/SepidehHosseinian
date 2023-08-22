@@ -41,7 +41,7 @@ I'm an ML practitioner with experience in natural language processing and MLOps.
 
 - 👯 I’m looking to collaborate on **MLOps and NLP projects**.
 
-- 💬 Ask me about: NLP, MLOps, Microservices
+- 💬 Ask me about NLP, MLOps, and Microservices
 
 - 📃 My AI|MLOps channel on Telegram: [@LetsSpeakAI](https://t.me/LetsSpeakAI)
 
@@ -52,12 +52,12 @@ I'm an ML practitioner with experience in natural language processing and MLOps.
 - ⚡ Fun fact: My love for learning changed my life!
 
 </p>
-<p align="center">
+<!-- <p align="center">
  <a href="#" alt="Sepideh Hosseinian's github stats">
   <img height="220"src="https://github-readme-stats.vercel.app/api?username=sepidehhosseinian&show_icons=true&theme=tokyonight&card_width=60%"/>
  </a>
   <a href="#" alt="Sepideh Hosseinian's three lang">
   <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepidehhosseinian&langs_count=3&&theme=tokyonight&card_width=40%"/>
  </a>
-</p>
+</p> -->
 
