@@ -45,7 +45,7 @@ I'm an ML practitioner with experience in natural language processing and MLOps.
 
 - 📃 My AI|MLOps channel on Telegram: [@LetsSpeakAI](https://t.me/LetsSpeakAI)
 
-- 📫 How to reach me: s.sepideh.hosseiniane@gmail.com
+- 📫 How to reach me: s.sepideh.hosseinian@gmail.com
 
 - 😄 Pronouns: She/Her
 
