@@ -41,7 +41,7 @@ I'm an ML practitioner with experience in natural language processing and MLOps.
 
 - 👯 I’m looking to collaborate on **MLOps and NLP projects**.
 
-- 💬 Ask me about NLP, MLOps, and Microservices
+- 💬 Ask me about NLP and MLOps.
 
 - 📃 My AI|MLOps channel on Telegram: [@LetsSpeakAI](https://t.me/LetsSpeakAI)
 
