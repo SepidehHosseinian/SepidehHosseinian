@@ -35,11 +35,11 @@
 <p> 
 I'm an ML practitioner with experience in natural language processing and MLOps.
 
-- 🔭 I’m currently working on MLOps.
+- 🔭 I’m currently working on MLOps and DRL.
 
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Rust and RL.
 
-- 👯 I’m looking to collaborate on **MLOps and NLP projects**.
+- 👯 I’m looking to collaborate on **MLOps and DAI projects**.
 
 - 💬 Ask me about NLP and MLOps.
 
