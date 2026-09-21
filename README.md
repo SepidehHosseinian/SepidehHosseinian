@@ -35,13 +35,13 @@
 <p> 
 I'm an ML practitioner with experience in natural language processing and MLOps.
 
-- 🔭 I’m currently working on MLOps and DRL.
+- 🔭 I’m currently working on DAI and DRL.
 
 - 🌱 I’m currently learning Rust and RL.
 
 - 👯 I’m looking to collaborate on **MLOps and DAI projects**.
 
-- 💬 Ask me about NLP and MLOps.
+- 💬 Ask me about DAI and DRL.
 
 - 📃 My AI|MLOps channel on Telegram: [@LetsSpeakAI](https://t.me/LetsSpeakAI)
 
